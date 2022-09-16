@@ -1,0 +1,12 @@
+.home{
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+  }
+  .home-content{
+    text-align: center;
+    font-size: 70px;
+    padding-top: 200px;
+    color: white;
+    font-style: italic;
+  }
