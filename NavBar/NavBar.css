@@ -1,0 +1,13 @@
+.navbar {
+    font-size: 1.5rem;
+    margin-right: 50px;
+    text-align: justify;
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+    background-color: 	#E5E4E2;
+    width: 100vw;
+    height:80px ;
+    margin-top: -20px;
+    font-weight: bold;
+}
