@@ -34,7 +34,7 @@ As a user of the application,you will be able to :
 
 ---
 
-- Clone to the repo : git clone https://github.com/pauleen123/phase-3-sinatra-react-project
+- Clone to the repo : git clone https://github.com/pauleen123/project-front-end
 
 - Unzip the downloaded files in a folder of choice.
 
